@@ -1,2 +1,1 @@
-# SpringBootLoginMongoDB
 # SpringBootLoginMySQL
