@@ -33,6 +33,12 @@ public class Controller {
         System.out.println("hello");
         return "hello";
     }
+
+    @RequestMapping("/admin")
+    public String helloAdmin() {
+        System.out.println("admin");
+        return "admin";
+    }
     
     @RequestMapping("/login")
     public String login() {
