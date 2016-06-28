@@ -4,6 +4,7 @@ The application demonstrates simple login page, which compares the given usernam
 
 ## Create the database:
 
+```mysql
 create database loginmysql;
 use loginmysql;
 create table users
