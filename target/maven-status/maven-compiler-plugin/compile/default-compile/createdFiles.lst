@@ -1,8 +1,0 @@
-com\springbootsecure\security\MyAuthenticationSuccessHandler.class
-com\springbootsecure\repository\UserRepository.class
-com\springbootsecure\model\User.class
-com\springbootsecure\security\WebSecurityConfig.class
-com\springbootsecure\Application.class
-com\springbootsecure\security\AuthUserDetailsService.class
-com\springbootsecure\utils\QuickPasswordEncodingGenerator.class
-com\springbootsecure\controller\Controller.class
