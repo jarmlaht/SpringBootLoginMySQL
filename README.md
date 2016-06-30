@@ -16,5 +16,6 @@ create table users
 );
 insert into users values (1, 'admin', '$2a$10$wQS235XeYYePrtCTRE6XEeo.FZVX3oje08I.DnHOsBQGogMohnwua', 1);
 insert into users values (2, 'user', '$2a$10$jNHBAp2FYcTECGmSkXVvnOQMqM7n35YwHpWTcHud3ibD6bQyI36pe', 2);
+```
 
 The passwords have been created by using the QuickPasswordEncodingGenerator, which is included with the project.
