@@ -22,8 +22,7 @@ public class AuthUserDetailsService implements UserDetailsService {
     private org.springframework.security.core.userdetails.User userdetails;
 
     @Override
-    public UserDetails loadUserByUsername(String username)
-            throws UsernameNotFoundException {
+    public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
 
         boolean enabled = true;
         boolean accountNonExpired = true;
